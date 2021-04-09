@@ -26,7 +26,7 @@ struct RecipeListView: View {
                             Text(recipe.name)
                         }
                     })
-            }.navigationBarTitle("All Recipes")
+            }.navigationBarTitle("All of my Recipes")
         }
         
         
